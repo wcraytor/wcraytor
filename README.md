@@ -2,8 +2,8 @@
 GitHub profile README
 # Bert Craytor · [@wcraytor](https://github.com/wcraytor)
 
-**Certified General Appraiser · MAI Candidate · Software Engineer**  
-Pacifica, CA · [valuationengineer.com](https://valuationengineer.com) · [journal.valuation-engineer.com](https://journal.valuation-engineer.com)
+** Software Engineer, Retired Appraiser **  
+Pacifica, CA · [valuationengineer.com](https://valuation-engineer.com) · [journal.valuation-engineer.com](https://journal.valuation-engineer.com)
 
 ---
 
@@ -72,8 +72,8 @@ VS Code · RStudio · LaTeX / TeXstudio · DEVONthink
 
 ## Credentials
 
-- **Certified General Real Estate Appraiser** — California
-- **MAI Candidate** — Appraisal Institute
+- **Certified General Real Estate Appraiser (Retired) ** — California
+- **SRA Designated Member* — Appraisal Institute
 - S-Corp: [Valuation Engineer](https://valuationengineer.com)
 
 ---
